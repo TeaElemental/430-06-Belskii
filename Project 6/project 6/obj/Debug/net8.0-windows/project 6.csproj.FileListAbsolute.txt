@@ -1,0 +1,17 @@
+C:\Users\NikTikJK\source\repos\project 6\project 6\bin\Debug\net8.0-windows\project 6.exe
+C:\Users\NikTikJK\source\repos\project 6\project 6\bin\Debug\net8.0-windows\project 6.deps.json
+C:\Users\NikTikJK\source\repos\project 6\project 6\bin\Debug\net8.0-windows\project 6.runtimeconfig.json
+C:\Users\NikTikJK\source\repos\project 6\project 6\bin\Debug\net8.0-windows\project 6.dll
+C:\Users\NikTikJK\source\repos\project 6\project 6\bin\Debug\net8.0-windows\project 6.pdb
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project_6.Form1.resources
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.csproj.GenerateResource.cache
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.AssemblyInfoInputs.cache
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.AssemblyInfo.cs
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.csproj.CoreCompileInputs.cache
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.dll
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\refint\project 6.dll
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.pdb
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project 6.genruntimeconfig.cache
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\ref\project 6.dll
+C:\Users\NikTikJK\source\repos\project 6\project 6\obj\Debug\net8.0-windows\project_6.Form2.resources

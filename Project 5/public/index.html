@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Site</title>
+  </head>
+  <body>
+    <div class="reg">
+        <div class="regswap">
+          <p onclick="showLogin()">Войти</p>
+          <p onclick="showRegister()">Зарегистрироваться</p>
+        </div>
+
+        <div class="form-container">
+          <div class="form-group" id="loginForm">
+              <label for="login">Логин:</label>
+              <input type="text" id="login" >
+          </div>
+          <div class="form-group" id="passwordForm">
+              <label for="password">Пароль:</label>
+              <input type="password" id="password" >
+          </div>
+          <div class="form-group" id="fullnameForm" class="hidden">
+              <label for="fullname">ФИО:</label>
+              <input type="text" id="fullname" >
+          </div>
+          <div class="form-group" id="phoneForm" class="hidden">
+              <label for="phone">Телефон:</label>
+              <input type="tel" id="phone" >
+          </div>
+          <div class="form-group" id="emailForm" class="hidden">
+              <label for="email">Email:</label>
+              <input type="email" id="email" >
+          </div>
+        </div>
+
+        <button class="center" id="button">Зарегистрироваться</button>
+      </div>
+    <script src="main.js"></script>
+  </body>
+</html>
